@@ -28,3 +28,11 @@ I am a software developer with extensive experience in several languages ​​i
 <a href="mailTo:luisgas012@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Chakerr" height="30" width="40" /></a>
 <a href="https://github.com/Chakerr" target="blank"> <img align="center" alt="https://github.com/Chakerr" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
+
+##
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Chakerr/Chakerr/output/snake.svg" alt="Snake animation" />
+
+###
