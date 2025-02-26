@@ -1,20 +1,21 @@
 <h1 align="center"> Hi I'm Luis! 👋 </h1>
 
 ## About me 👨‍🚀
-I am a software developer with extensive experience in several languages ​​including Java, HTML, CSS, and JavaScript. I love taking on challenges that demand innovative and efficient solutions. With a strong focus on web development, I am constantly looking for opportunities to apply my skills and knowledge to build robust and scalable applications.
+<img align="right" width=200px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFha3o2c3Z1OHlybmJrazA0OXFhdWh6N3FuM3pqdHBneGF4Z3pwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
+
+I am a dedicated software developer with extensive experience in Java, HTML, CSS, and JavaScript. Passionate about problem-solving, I excel at designing and implementing innovative, efficient, and scalable solutions.
+
+With a strong focus on web development, I continuously seek opportunities to apply my expertise in building robust applications. I am committed to staying at the forefront of emerging technologies, developing high-impact software solutions that enhance productivity, optimize user experiences, and address real-world challenges.
+
+🚀✨
 
 ## Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,angular,wordpress,androidstudio,arch,kali,linux,aws,azure,bash,powershell,bots,git,idea,java,spring,latex,maven,mysql,neovim,nodejs,postgres,postman,sqlite,sublime,vim,vscode,figma,xd,ae,ps,pr,ai,&theme=light" width="850" />
+  </a>
+</p>
 
 
 ## Github Stats
@@ -23,8 +24,10 @@ I am a software developer with extensive experience in several languages ​​i
 
 ## Connect with me
 
-<p align="center">  
-<a href="https://www.linkedin.com/in/luis-gabriel-romero-castro-11a948268/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
-<a href="mailTo:luisgas012@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Chakerr" height="30" width="40" /></a>
-<a href="https://github.com/Chakerr" target="blank"> <img align="center" alt="https://github.com/Chakerr" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="discordapp.com/users/593146083530637360"> <img src="https://skillicons.dev/icons?i=discord,&theme=light" width="80" /></a>
+  <a href="https://github.com/Chakerr"> <img src="https://skillicons.dev/icons?i=github,&theme=light" width="80" /></a>
+  <a href="mailTo:luisgas012@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail,&theme=light" width="80" /></a>
+  <a href="https://www.instagram.com/chakerr_z/"> <img src="https://skillicons.dev/icons?i=instagram,&theme=light" width="80" /></a>
+  <a href="https://www.linkedin.com/in/luis-gabriel-romero-castro-11a948268/"> <img src="https://skillicons.dev/icons?i=linkedin,&theme=light" width="80" /></a>
 </p>
