@@ -24,7 +24,7 @@ With a strong focus on web development, I continuously seek opportunities to app
 <p> &nbsp;<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Chakerr&theme=nord&show_icons=true&hide_border=true&count_private=false" width="410"/p>
 
   <div align="center">
-  <img src="https://github.com/Chakerr/Chakerr/blob/output/github-contribution-grid-snake.gif" />
+  <img src="https://github.com/Chakerr/Chakerr/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 
