@@ -24,7 +24,7 @@ With a strong focus on web development, I continuously seek opportunities to app
 <p> &nbsp;<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Chakerr&theme=nord&show_icons=true&hide_border=true&count_private=false" width="410"/p>
 
 
-## Connect with me
+## Connect with me 🚀
 
 <p align="center">
   <a href="discordapp.com/users/593146083530637360"> <img src="https://skillicons.dev/icons?i=discord,&theme=light" width="80" /></a>
